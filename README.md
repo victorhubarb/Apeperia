@@ -25,16 +25,16 @@ Page offering job vacancies for various positions at a technology company. With 
 Project requirements:
  - Have your preferred IDE installed on your computer.
 
-Access the project hosted [here](https://optimus-tech-ashy.vercel.app) and have fun:
+Access the project hosted [here](https://apeperia-one-blue.vercel.app) and have fun:
  - Project hosted on Vercel.
- - Easy implementation, [click](https://optimus-tech-ashy.vercel.app) and enter the project, try it out easily and quickly without needing to download the files to your own computer.
+ - Easy implementation, [click](https://apeperia-one-blue.vercel.app) and enter the project, try it out easily and quickly without needing to download the files to your own computer.
 
 Have the code on your computer:
- - Access the project source code [here](https://github.com/victorhubarb/optimus-tech) or download the project [here](https://github.com/victorhubarb/optimus-tech/archive/refs/heads/main.zip). After one of these steps, and also unzip it on your computer in case of download, open the project in your preferred IDE.
+ - Access the project source code [here](https://github.com/victorhubarb/apeperia) or download the project [here](https://github.com/victorhubarb/apeperia/archive/refs/heads/main.zip). After one of these steps, and also unzip it on your computer in case of download, open the project in your preferred IDE.
 
 Clone repository with the following steps:
  1. Open the terminal
- 2. git clone https://github.com/victorhubarb/optimus-tech.git
+ 2. git clone https://github.com/victorhubarb/apeperia.git
  3. Press ENTER to create your clone
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -42,6 +42,7 @@ Clone repository with the following steps:
 ![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Project Developers
