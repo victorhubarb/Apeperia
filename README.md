@@ -12,13 +12,14 @@
 * [Project Developers](#project-developers)
 
 ## Project Description
-Page offering job vacancies for various positions at a technology company. With different sections such as navigation menu, about us, vacancies, employee feedback, and also email for contact.
+Apeperia is a company focused on creating and maintaining applications for businesses. The Apeperia page consists of a brief explanation about the company, a section with plans and pricing, articles, and also a contact form section for reaching out to the company.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
  
 ## Features and Application Demonstration
-- `Feature 1`: The page was not created responsively per se; however, it was developed using REM values, which still makes the page more organized when viewed on smaller devices, as the elements automatically shrink or enlarge accordingly.
-- `Feature 2`: Creation of an input for registration to receive email notifications about available job vacancies if desired.
-- `Feature 3`: Development in sections, separating them in an organized and easily maintainable code manner.
+- `Feature 1`: Responsive page, developed for various screen sizes.
+- `Feature 2`: When the 'Receber destaques por email' button in the highlights section is clicked, a dialog opens for newsletter subscription.
+- `Feature 3`: Complete contact form for contacting the company, with validation of certain fields to ensure that the data entered is correct, adding error messages for the user in case of incorrect data.
+- `Feature 4`: Insertion of a carousel in the blog section, with navigation between articles.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Project Access
