@@ -12,31 +12,43 @@
 * [Project Developers](#project-developers)
 
 ## Project Description
-Apeperia is a company focused on creating and maintaining applications for businesses. The Apeperia page consists of a brief explanation about the company, a section with plans and pricing, articles, and also a contact form section for reaching out to the company.
+Apeperia is a vibrant and dynamic website designed to showcase the services of a startup specializing in developing mobile and web applications for small to medium-sized businesses. Built using HTML, CSS, and JavaScript, this site provides a comprehensive overview of the company's offerings, including detailed descriptions of available plans, benefits, and insights into the company's capabilities through various interactive sections.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
  
 ## Features and Application Demonstration
-- `Feature 1`: Responsive page, developed for various screen sizes.
-- `Feature 2`: When the 'Receber destaques por email' button in the highlights section is clicked, a dialog opens for newsletter subscription.
-- `Feature 3`: Complete contact form for contacting the company, with validation of certain fields to ensure that the data entered is correct, adding error messages for the user in case of incorrect data.
-- `Feature 4`: Insertion of a carousel in the blog section, with navigation between articles.
+- **Interactive Landing Page**: The homepage features a full-width banner with a navigation menu, company logo, descriptive text about the service, and a button to explore detailed plans.
+- **Benefits Section**: Briefly highlights the key advantages of choosing Apeperia's services, encouraging potential clients to learn more.
+- **About Section**: Offers a detailed description of the company and the services it provides, complemented by images of supported platforms like Android, Apple, and Microsoft.
+- **Plans Section**: Displays three distinct service plans through visually appealing cards that include plan names, pricing information, included services, and a subscription button for each plan.
+- **Blog Carousel**: A carousel showcasing three different blog posts, with navigation dots to switch between entries, providing useful information and updates to visitors.
+- **Highlights Section**: Features two highlight cards with images and descriptions that act like news or blog posts about relevant topics. Hovering over the cards changes their background color, indicating selection.
+- **Newsletter Subscription Modal**: Includes a button to subscribe to newsletters, opening a modal where users can enter their email address to receive updates, with an option to close the modal if not interested.
+- **Contact Section**: Contains a contact form with fields for user information and JavaScript validations to ensure data integrity before submission.
+- **Institutional Information**: Provides details about Apeperia's office location along with a video that offers further insights into the company.
+- **Responsive Footer**: Includes the company logo, links to social media profiles, and a repetition of the navigation menu links for easy access.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Project Access
-Project requirements:
- - Have your preferred IDE installed on your computer.
 
-Access the project hosted [here](https://apeperia-one-blue.vercel.app) and have fun:
- - Project hosted on Vercel.
- - Easy implementation, [click](https://apeperia-one-blue.vercel.app) and enter the project, try it out easily and quickly without needing to download the files to your own computer.
+### Prerequisites
+- **Integrated Development Environment (IDE)**: An IDE such as Visual Studio Code is recommended for local development and customization of the project, though it is not necessary for accessing the hosted version.
 
-Have the code on your computer:
- - Access the project source code [here](https://github.com/victorhubarb/apeperia) or download the project [here](https://github.com/victorhubarb/apeperia/archive/refs/heads/main.zip). After one of these steps, and also unzip it on your computer in case of download, open the project in your preferred IDE.
+### Online Access
+- **Live Demo**: Experience the Apeperia website directly through its hosted version on Vercel:
+  - [Visit Apeperia](https://apeperia-one-blue.vercel.app) to explore the services and functionalities offered by the platform without any setup required.
 
-Clone repository with the following steps:
- 1. Open the terminal
- 2. git clone https://github.com/victorhubarb/apeperia.git
- 3. Press ENTER to create your clone
+### Local Setup
+- **Access and Download the Source Code**:
+  - Visit the [Apeperia GitHub repository](https://github.com/victorhubarb/apeperia) to view the source code.
+  - To download the project directly, [click here](https://github.com/victorhubarb/apeperia/archive/refs/heads/main.zip), unzip the file after download, and open it in your IDE.
+
+- **Clone the Repository**:
+  ```bash
+  # Open your terminal
+  git clone https://github.com/victorhubarb/apeperia.git
+  cd apeperia
+  
+  # Now you are ready to work on the project locally.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Technologies Used
