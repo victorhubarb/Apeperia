@@ -13,7 +13,6 @@
 - [Features](#features)
 - [Technologies](#technologies)
 - [Contributors](#contributors)
-- [License](#license)
 
 ## Installation
 
